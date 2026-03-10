@@ -1,0 +1,30 @@
+{
+  "dataset_size": {
+    "NYC TLC": 20940373,
+    "EcoMoveNet": 5000
+  },
+  "carpool_rate_pct": {
+    "NYC TLC": 0.0,
+    "EcoMoveNet": 51.68
+  },
+  "avg_trip_distance_km": {
+    "NYC TLC": 0.0,
+    "EcoMoveNet": 47.6279
+  },
+  "avg_passengers": {
+    "NYC TLC": 1.0,
+    "EcoMoveNet": 2.0274
+  },
+  "avg_fare": {
+    "NYC TLC": 0.0,
+    "EcoMoveNet": 405.7587
+  },
+  "avg_carbon_saved_carpool": {
+    "NYC TLC": null,
+    "EcoMoveNet": 2.4738
+  },
+  "eco_score_mean": {
+    "NYC TLC": 0.0,
+    "EcoMoveNet": 37.8357
+  }
+}
