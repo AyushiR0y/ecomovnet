@@ -1,0 +1,839 @@
+GreenGo Longitudinal Interview Dataset
+Purpose: Temporal Sentiment Analysis, Feature-Level Sentiment Drift, Behavioral Change Tracking
+Dataset Version: v2.0
+Time Span Covered: Feb 2025 – July 2025
+Location Context: Urban Indian commuters (students, professionals, researchers)
+
+======================================================================
+
+INTERVIEW 1A – Early Onboarding Phase (Week 1)
+Date: 12-02-2025
+Participant ID: P01
+Name: Upasna Roy
+Role: PhD Student (Life Skills), Assistant Professor, Sustainability Consultant
+Usage Duration: 7 days
+
+Features Used:
+- EcoNews
+- Community Events
+- Train Tracker (limited use)
+
+Overall Sentiment Label: Positive (Low Intensity)
+
+Narrative:
+"I downloaded GreenGo out of curiosity more than commitment. I wasn’t looking to overhaul my lifestyle, just to explore how sustainability is being packaged digitally."
+
+Feature-Specific Sentiments:
+- EcoNews: Positive
+  "EcoNews feels well-curated and not overwhelming. I skim it almost daily."
+- Community Events: Neutral-Positive
+  "I haven’t attended one yet, but I like knowing what’s happening nearby."
+- Train Tracker: Neutral
+  "I noticed the tracker but didn’t consciously rely on it initially."
+
+Key Quote:
+"Convenience must precede conviction."
+
+Emotional Tone:
+Curious, mildly optimistic, observational
+
+---------------------------------------------------------------------
+
+INTERVIEW 1B – Habit Formation Phase (Week 6)
+Date: 26-03-2025
+Participant ID: P01
+Usage Duration: 6 weeks
+
+Features Used:
+- Train Tracker (daily)
+- EcoNews
+- Points Timeline
+- Community Events
+
+Overall Sentiment Label: Strongly Positive
+
+Narrative:
+"What started as exploration has quietly turned into a routine. I didn’t realize when checking train timings became instinctive."
+
+Feature-Specific Sentiments:
+- Train Tracker: Strongly Positive
+  "It reduced my commute anxiety and made public transport feel reliable."
+- Points Timeline: Positive
+  "Seeing consistency visually makes sustainability feel achievable."
+- EcoNews: Positive
+  "The framing is optimistic, not alarmist."
+- Community Events: Positive
+  "It adds a social dimension to what is otherwise a personal habit."
+
+Key Quotes:
+"The app reframed commuting from a chore to a conscious choice."
+"GreenGo doesn’t guilt-trip—it guides."
+
+Emotional Tone:
+Empowered, calm, engaged
+
+======================================================================
+
+INTERVIEW 2A – Initial Student Adoption (Week 2)
+Date: 24-03-2025
+Participant ID: P02
+Name: Vishruth R
+Role: Undergraduate Student
+Usage Duration: 2 weeks
+
+Features Used:
+- Bus Tracker
+- EcoPoints
+- Community Challenges
+
+Overall Sentiment Label: Positive (Gamified Motivation)
+
+Narrative:
+"I don’t think much about sustainability daily, but GreenGo makes it feel like a game rather than a responsibility."
+
+Feature-Specific Sentiments:
+- Bus Tracker: Positive
+  "I check bus timings first thing in the morning."
+- EcoPoints: Strongly Positive
+  "Collecting points makes eco-choices feel like a win."
+- Community Challenges: Positive
+  "Seeing others participate pushes me to not skip."
+
+Key Quote:
+"It’s not about perfection—it’s about making better choices more often."
+
+Emotional Tone:
+Playful, motivated, exploratory
+
+---------------------------------------------------------------------
+
+INTERVIEW 2B – Mid-Semester Reflection (Month 3)
+Date: 18-06-2025
+Participant ID: P02
+Usage Duration: 3 months
+
+Features Used:
+- Bus Tracker
+- EcoPoints
+- Rewards Marketplace
+- Community Challenges
+
+Overall Sentiment Label: Mixed Positive → Reflective
+
+Narrative:
+"I still like the app, but now I notice when features repeat. The novelty has worn off, but the habit remains."
+
+Feature-Specific Sentiments:
+- EcoPoints: Positive
+  "Points matter less now, but they helped build the habit."
+- Rewards Marketplace: Neutral
+  "Rewards could be more varied or personalized."
+- Community Challenges: Positive
+  "Group streaks make me stay consistent."
+
+Key Quotes:
+"I don’t open GreenGo for points anymore—I open it out of routine."
+"The motivation has shifted from reward to responsibility."
+
+Emotional Tone:
+Reflective, stable, slightly critical but engaged
+
+======================================================================
+
+INTERVIEW 3A – Tech-Oriented User (Month 1)
+Date: 04-04-2025
+Participant ID: P03
+Name: Srinivasan Sridhar
+Role: B.Tech CSE Student (ML Specialization)
+Usage Duration: 1 month
+
+Features Used:
+- Personalized Route Tracker
+- Carpool Matching
+- EcoNews
+
+Overall Sentiment Label: Strongly Positive (Cognitive Engagement)
+
+Narrative:
+"What impressed me wasn’t just the concept, but the execution. The personalization feels intentional."
+
+Feature-Specific Sentiments:
+- Route Tracker: Strongly Positive
+  "It actually adapts based on my travel behavior."
+- Carpooling: Positive
+  "Lower friction than expected."
+- EcoNews: Positive
+  "Digestible but impactful."
+
+Key Quote:
+"ML makes sustainability measurable."
+
+Emotional Tone:
+Analytical, impressed, optimistic
+
+---------------------------------------------------------------------
+
+INTERVIEW 3B – Long-Term Evaluation (Month 4)
+Date: 22-07-2025
+Participant ID: P03
+Usage Duration: 4 months
+
+Features Used:
+- Route Tracker
+- Eco Impact Dashboard
+- Carpool Matching
+
+Overall Sentiment Label: Constructive Criticism + Positive Retention
+
+Narrative:
+"The app succeeds in nudging action, but now I expect deeper insights."
+
+Feature-Specific Sentiments:
+- Eco Impact Dashboard: Mixed
+  "Good visuals, but I want more explainability."
+- Route Tracker: Positive
+  "Still reliable and behavior-shaping."
+- Carpooling: Neutral
+  "Adoption depends heavily on city density."
+
+Key Quotes:
+"GreenGo nudges real action—but now it should explain the impact better."
+"I trust the system enough to want transparency."
+
+Emotional Tone:
+Critical, invested, forward-looking
+
+======================================================================
+
+INTERVIEW 4 – Late-Stage Advocate User (Month 5)
+Date: 30-07-2025
+Participant ID: P04
+Name: Ananya Mehta
+Role: Urban Planner & Policy Research Intern
+Usage Duration: 5 months
+
+Features Used:
+- Sustainability Planner (Beta)
+- Eco Impact Dashboard
+- Community Events
+- Points Timeline
+
+Overall Sentiment Label: Strongly Positive (Advocacy)
+
+Narrative:
+"GreenGo has shifted from being an app to being infrastructure in my daily planning."
+
+Feature-Specific Sentiments:
+- Sustainability Planner: Strongly Positive
+  "Helps translate intent into structured action."
+- Community Events: Positive
+  "Local action makes sustainability tangible."
+- Points Timeline: Positive
+  "Long-term consistency feels rewarding."
+
+Key Quotes:
+"This is the first app that respects both human behavior and environmental goals."
+"I recommend it professionally, not just personally."
+
+Emotional Tone:
+Confident, committed, advocacy-driven
+
+======================================================================
+
+GLOBAL SENTIMENT TRAJECTORY OBSERVATIONS:
+- Early Stage: Curiosity-driven positivity
+- Mid Stage: Habit formation + gamification
+- Later Stage: Reflection, reduced novelty
+- Long-Term: Advocacy, expectation of depth and transparency
+
+Primary Emotional Shift:
+Motivation → Routine → Ownership → Advocacy
+
+Feature Sentiment Over Time:
+- Trackers: Positive → Strongly Positive → Stable
+- Gamification: Strong Positive → Neutral-Positive
+- ML Personalization: Positive → Expectation for Explainability
+- Community Features: Neutral → Positive → Advocacy
+
+
+======================================================================
+
+INTERVIEW 5A – Skeptical Professional Onboarding (Week 1)
+Date: 05-03-2025
+Participant ID: P05
+Name: Raghav Menon
+Role: Product Manager, FinTech Startup
+Usage Duration: 6 days
+
+Features Used:
+- Route Tracker
+- Carbon Footprint Estimator
+- EcoNews
+
+Overall Sentiment Label: Neutral → Mildly Positive
+
+Narrative:
+"I installed GreenGo because my colleague wouldn’t stop talking about it. I’m generally skeptical of sustainability apps—they tend to overpromise."
+
+Feature-Specific Sentiments:
+- Route Tracker: Neutral
+  "It works fine, but it didn’t feel different from Google Maps initially."
+- Carbon Footprint Estimator: Neutral
+  "Interesting numbers, but I’m not sure how actionable they are yet."
+- EcoNews: Mildly Positive
+  "Short reads. Doesn’t waste time."
+
+Key Quotes:
+"I’m observing before committing."
+"If it fits into my routine, I’ll keep it."
+
+Emotional Tone:
+Detached, analytical, cautious
+
+---------------------------------------------------------------------
+
+INTERVIEW 5B – Post-Routine Integration (Month 3)
+Date: 14-06-2025
+Participant ID: P05
+Usage Duration: 3 months
+
+Features Used:
+- Route Tracker
+- Carbon Footprint Estimator
+- Weekly Impact Summary
+
+Overall Sentiment Label: Positive → Reflective
+
+Narrative:
+"I didn’t notice when GreenGo stopped being an experiment and became a background utility."
+
+Feature-Specific Sentiments:
+- Weekly Impact Summary: Positive
+  "Seeing weekly reductions adds perspective."
+- Route Tracker: Positive
+  "I now default to public transport routes without thinking."
+- Carbon Footprint Estimator: Positive
+  "The comparisons over time make the numbers meaningful."
+
+Key Quotes:
+"It doesn’t demand attention—it earns it."
+"The value shows up slowly."
+
+Emotional Tone:
+Calm, reflective, quietly satisfied
+
+======================================================================
+
+INTERVIEW 6A – Budget-Conscious Daily Commuter (Week 2)
+Date: 18-03-2025
+Participant ID: P06
+Name: Kavya Iyer
+Role: MBA Student, Part-Time Intern
+Usage Duration: 12 days
+
+Features Used:
+- Public Transport Cost Comparison
+- Bus Tracker
+- EcoPoints
+
+Overall Sentiment Label: Positive (Utility-Driven)
+
+Narrative:
+"I wasn’t thinking about sustainability—I just wanted cheaper commute options."
+
+Feature-Specific Sentiments:
+- Cost Comparison: Strongly Positive
+  "This alone makes the app worth it."
+- Bus Tracker: Positive
+  "Accurate most days."
+- EcoPoints: Neutral
+  "Points are nice, but not my main reason."
+
+Key Quotes:
+"It saves me money—that’s the hook."
+"Sustainability feels like a side benefit."
+
+Emotional Tone:
+Practical, budget-focused, pragmatic
+
+---------------------------------------------------------------------
+
+INTERVIEW 6B – Values Alignment Phase (Month 4)
+Date: 27-07-2025
+Participant ID: P06
+Usage Duration: 4 months
+
+Features Used:
+- Cost Comparison
+- Eco Impact Dashboard
+- Monthly Goals
+
+Overall Sentiment Label: Strongly Positive
+
+Narrative:
+"What started as cost-saving slowly changed how I think about travel choices."
+
+Feature-Specific Sentiments:
+- Eco Impact Dashboard: Positive
+  "I didn’t realize small choices added up."
+- Monthly Goals: Positive
+  "Keeps me accountable without pressure."
+
+Key Quotes:
+"I came for savings, stayed for impact."
+"It changed my mindset without trying to."
+
+Emotional Tone:
+Empowered, value-aligned, motivated
+
+======================================================================
+
+INTERVIEW 7A – Socially Motivated User (Week 1)
+Date: 02-04-2025
+Participant ID: P07
+Name: Arjun Patel
+Role: Freelance Graphic Designer
+Usage Duration: 5 days
+
+Features Used:
+- Community Challenges
+- EcoPoints
+- Social Sharing
+
+Overall Sentiment Label: Positive (Social Validation)
+
+Narrative:
+"I liked seeing friends already on the app—it felt like joining a movement."
+
+Feature-Specific Sentiments:
+- Community Challenges: Strongly Positive
+  "Group streaks are addictive."
+- Social Sharing: Positive
+  "Posting progress feels good."
+- EcoPoints: Positive
+  "Points make participation visible."
+
+Key Quotes:
+"It feels social, not preachy."
+"I like being seen doing something good."
+
+Emotional Tone:
+Energetic, socially driven, enthusiastic
+
+---------------------------------------------------------------------
+
+INTERVIEW 7B – Engagement Fatigue Check (Month 2)
+Date: 10-06-2025
+Participant ID: P07
+Usage Duration: 2 months
+
+Features Used:
+- Community Challenges
+- Personal Goals
+- Eco Impact Summary
+
+Overall Sentiment Label: Mixed → Stabilized Positive
+
+Narrative:
+"The social excitement dipped, but personal progress kept me around."
+
+Feature-Specific Sentiments:
+- Community Challenges: Neutral-Positive
+  "I participate selectively now."
+- Personal Goals: Positive
+  "More meaningful than public streaks."
+- Eco Impact Summary: Positive
+  "Private feedback feels more honest."
+
+Key Quotes:
+"I don’t need applause anymore."
+"Progress matters more than posting."
+
+Emotional Tone:
+Grounded, introspective, stable
+
+======================================================================
+
+INTERVIEW 8A – Low-Tech User Adoption (Week 3)
+Date: 09-04-2025
+Participant ID: P08
+Name: Meena Lakshmi
+Role: Government School Teacher
+Usage Duration: 3 weeks
+
+Features Used:
+- Simple Mode Interface
+- Train Tracker
+- Daily Tips
+
+Overall Sentiment Label: Neutral → Positive
+
+Narrative:
+"I’m not very tech-savvy, so I was worried the app would be complicated."
+
+Feature-Specific Sentiments:
+- Simple Mode: Strongly Positive
+  "Everything is clear and readable."
+- Train Tracker: Positive
+  "Very helpful during rush hours."
+- Daily Tips: Neutral
+  "Some tips repeat."
+
+Key Quotes:
+"It doesn’t make me feel lost."
+"I can use it without help."
+
+Emotional Tone:
+Relieved, cautious, appreciative
+
+---------------------------------------------------------------------
+
+INTERVIEW 8B – Confidence & Advocacy Phase (Month 5)
+Date: 19-08-2025
+Participant ID: P08
+Usage Duration: 5 months
+
+Features Used:
+- Train Tracker
+- Community Events
+- Impact Milestones
+
+Overall Sentiment Label: Strongly Positive (Advocacy)
+
+Narrative:
+"I now recommend GreenGo to colleagues who think apps are confusing."
+
+Feature-Specific Sentiments:
+- Impact Milestones: Positive
+  "It feels encouraging, not competitive."
+- Community Events: Positive
+  "Nice to see familiar faces."
+- Train Tracker: Strongly Positive
+  "I rely on it completely."
+
+Key Quotes:
+"If I can use it, anyone can."
+"It gave me confidence, not stress."
+
+Emotional Tone:
+Confident, proud, community-oriented
+
+======================================================================
+
+INTERVIEW 9 – Long-Term Power User (Month 6)
+Date: 01-09-2025
+Participant ID: P09
+Name: Nikhil Verma
+Role: Sustainability Analyst
+Usage Duration: 6 months
+
+Features Used:
+- Eco Impact Dashboard
+- Advanced Analytics
+- Sustainability Planner
+
+Overall Sentiment Label: Constructive + Strongly Positive
+
+Narrative:
+"I hold GreenGo to a higher standard because I rely on it professionally."
+
+Feature-Specific Sentiments:
+- Advanced Analytics: Mixed
+  "Accurate, but could expose assumptions."
+- Sustainability Planner: Strongly Positive
+  "Bridges data and decision-making."
+
+Key Quotes:
+"This is no longer a lifestyle app—it’s a decision-support tool."
+"I critique it because I trust it."
+
+Emotional Tone:
+Critical, invested, long-term committed
+
+======================================================================
+
+INTERVIEW 10A – Corporate Commuter, Time-Starved (Week 1)
+Date: 11-04-2025
+Participant ID: P10
+Name: Sandeep Kulkarni
+Role: Senior Operations Executive
+Usage Duration: 5 days
+
+Features Used:
+- Fast Route Suggestions
+- Train Tracker
+- EcoNews (skimmed)
+
+Overall Sentiment Label: Neutral
+
+Narrative:
+"My days are packed. I don’t have the bandwidth to think about sustainability apps."
+
+Feature-Specific Sentiments:
+- Fast Route Suggestions: Neutral
+  "Feels efficient but not memorable."
+- Train Tracker: Neutral
+  "Accurate, but I already plan loosely."
+- EcoNews: Neutral
+  "Didn’t open much."
+
+Key Quotes:
+"If it saves time, I’ll keep it."
+"I don’t want another thing demanding attention."
+
+Emotional Tone:
+Detached, time-constrained, indifferent
+
+---------------------------------------------------------------------
+
+INTERVIEW 10B – Passive Retention Phase (Month 4)
+Date: 03-08-2025
+Participant ID: P10
+Usage Duration: 4 months
+
+Features Used:
+- Train Tracker
+- Weekly Commute Summary
+
+Overall Sentiment Label: Mildly Positive (Low Engagement)
+
+Narrative:
+"I don’t actively think about GreenGo, but I notice when it’s missing."
+
+Feature-Specific Sentiments:
+- Weekly Commute Summary: Positive
+  "It reassures me I’m making decent choices."
+- Train Tracker: Positive
+  "It’s reliable. That’s enough."
+
+Key Quotes:
+"It’s quietly useful."
+"I don’t need to love it—I need it to work."
+
+Emotional Tone:
+Neutral-stable, low-effort satisfaction
+
+======================================================================
+
+INTERVIEW 11A – Sustainability-Skeptic Student (Week 2)
+Date: 16-04-2025
+Participant ID: P11
+Name: Rohit Sharma
+Role: Engineering Undergraduate
+Usage Duration: 10 days
+
+Features Used:
+- EcoTips
+- EcoPoints
+- Route Tracker
+
+Overall Sentiment Label: Slightly Negative → Neutral
+
+Narrative:
+"I felt like this would lecture me. I don’t like being told what’s right."
+
+Feature-Specific Sentiments:
+- EcoTips: Negative
+  "Some tips felt obvious."
+- EcoPoints: Neutral
+  "Didn’t care much."
+- Route Tracker: Neutral
+  "Functional."
+
+Key Quotes:
+"I don’t want moral pressure from an app."
+"It felt unnecessary at first."
+
+Emotional Tone:
+Defensive, skeptical
+
+---------------------------------------------------------------------
+
+INTERVIEW 11B – Attitude Softening Phase (Month 3)
+Date: 20-07-2025
+Participant ID: P11
+Usage Duration: 3 months
+
+Features Used:
+- Route Tracker
+- Eco Impact Summary
+
+Overall Sentiment Label: Positive (Shift from Resistance)
+
+Narrative:
+"I stopped feeling judged. That made a difference."
+
+Feature-Specific Sentiments:
+- Eco Impact Summary: Positive
+  "It shows consequences without preaching."
+- Route Tracker: Positive
+  "It fits into what I already do."
+
+Key Quotes:
+"It stopped feeling like advice."
+"I changed without noticing."
+
+Emotional Tone:
+Relaxed, receptive, quietly positive
+
+======================================================================
+
+INTERVIEW 12A – Burnout-Prone Activist (Month 1)
+Date: 28-04-2025
+Participant ID: P12
+Name: Neha Fernandes
+Role: NGO Volunteer (Climate Advocacy)
+Usage Duration: 1 month
+
+Features Used:
+- EcoNews
+- Community Events
+- Impact Dashboard
+
+Overall Sentiment Label: Mixed → Overstimulated
+
+Narrative:
+"I already consume a lot of climate content. Sometimes this felt like too much."
+
+Feature-Specific Sentiments:
+- EcoNews: Mixed
+  "Well-written but emotionally heavy."
+- Impact Dashboard: Positive
+  "At least this focuses on action."
+- Community Events: Positive
+  "Grounded me locally."
+
+Key Quotes:
+"I care deeply—but I also get tired."
+"Action matters more than information overload."
+
+Emotional Tone:
+Emotionally invested, fatigued
+
+---------------------------------------------------------------------
+
+INTERVIEW 12B – Reframing Phase (Month 5)
+Date: 01-09-2025
+Participant ID: P12
+Usage Duration: 5 months
+
+Features Used:
+- Action-Based Goals
+- Impact Dashboard
+
+Overall Sentiment Label: Strongly Positive (Recovered)
+
+Narrative:
+"I stopped reading everything and focused on what I could actually do."
+
+Feature-Specific Sentiments:
+- Action-Based Goals: Strongly Positive
+  "This reduced my anxiety."
+- Impact Dashboard: Positive
+  "Progress feels manageable."
+
+Key Quotes:
+"It helped me care sustainably."
+"This app taught me restraint."
+
+Emotional Tone:
+Balanced, resilient, grounded
+
+======================================================================
+
+INTERVIEW 13A – Rural-to-Urban Migrant (Month 1)
+Date: 02-05-2025
+Participant ID: P13
+Name: Sunita Devi
+Role: Service Worker (Hospital Support Staff)
+Usage Duration: 3 weeks
+
+Features Used:
+- Simple Mode
+- Bus Tracker
+- Language Localization
+
+Overall Sentiment Label: Neutral → Appreciative
+
+Narrative:
+"City travel is confusing. I needed something simple."
+
+Feature-Specific Sentiments:
+- Language Localization: Strongly Positive
+  "It feels familiar."
+- Bus Tracker: Positive
+  "I don’t miss buses now."
+- Simple Mode: Positive
+  "No confusion."
+
+Key Quotes:
+"It speaks my language."
+"It reduces daily stress."
+
+Emotional Tone:
+Relieved, cautious, grateful
+
+---------------------------------------------------------------------
+
+INTERVIEW 13B – Confidence & Independence Phase (Month 4)
+Date: 12-08-2025
+Participant ID: P13
+Usage Duration: 4 months
+
+Features Used:
+- Bus Tracker
+- Monthly Impact Summary
+
+Overall Sentiment Label: Strongly Positive
+
+Narrative:
+"I feel confident navigating the city now."
+
+Feature-Specific Sentiments:
+- Monthly Impact Summary: Positive
+  "Feels rewarding."
+- Bus Tracker: Strongly Positive
+  "I depend on it."
+
+Key Quotes:
+"It gave me control."
+"I feel capable."
+
+Emotional Tone:
+Confident, independent, empowered
+
+======================================================================
+
+INTERVIEW 14 – Silent Loyalist (Month 6)
+Date: 05-09-2025
+Participant ID: P14
+Name: Varun Malhotra
+Role: Remote Software Engineer
+Usage Duration: 6 months
+
+Features Used:
+- Background Route Optimization
+- Impact Logs
+
+Overall Sentiment Label: Positive (Low Expression)
+
+Narrative:
+"I rarely talk about GreenGo, but I’ve never uninstalled it."
+
+Feature-Specific Sentiments:
+- Background Optimization: Strongly Positive
+  "Zero effort."
+- Impact Logs: Neutral-Positive
+  "I glance occasionally."
+
+Key Quotes:
+"It respects my attention."
+"It stays out of the way."
+
+Emotional Tone:
+Minimalist, satisfied, loyal
+
+======================================================================
+
+END 
+======================================================================
