@@ -5,17 +5,6 @@ Full implementation of **Algorithm 1: EcoMoveNet** — a Gamified AI Framework f
 Sustainable Commuting and Behavioral Change — with comparative analysis between
 the **NYC TLC Trip Record** dataset and the **EcoMoveNet app** dataset.
 
----
-
-## Project Structure
-
-```
-ecomovenet/
-├── ecomovenet_algorithm.py   # Core algorithm (all 17 steps + ablation + comparison)
-├── run_ecomovenet.py         # CLI runner, reporting, and visualisations
-├── requirements.txt          # Python dependencies
-└── README.md
-```
 
 ---
 
