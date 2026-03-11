@@ -1,6 +1,6 @@
 {
   "dataset_size": {
-    "NYC TLC": 20940373,
+    "NYC TLC": 300000,
     "EcoMoveNet": 5000
   },
   "carpool_rate_pct": {

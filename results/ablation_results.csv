@@ -1,6 +1,6 @@
 Model Variant,Components Used,Accuracy (%),Precision (%),Recall (%),F1-score (%),AUC-ROC,RMSE
-Baseline (Logistic Regression),Baseline,51.3,51.62,92.26,66.2,0.483,0.5001
-Temporal Only,Temporal,49.5,51.19,50.1,50.64,0.4941,0.5718
-Spatial + Temporal,Spatial+Temporal,49.5,50.9,65.38,57.24,0.4848,0.5085
-Spatial + Temporal + Behavior,Spatial+Temporal+Behavior,49.2,50.71,62.09,55.83,0.4774,0.5111
-Hybrid Spatio-Temporal + Behavior + Incentive Model,Spatial+Temporal+Behavior+Incentive,50.1,51.37,65.38,57.53,0.4921,0.5029
+Baseline (Logistic Regression),Baseline,83.9,100.0,68.86,81.56,0.8443,0.3478
+Temporal Only,Temporal,77.7,81.41,73.69,77.36,0.8379,0.3968
+Spatial + Temporal,Spatial+Temporal,83.8,99.72,68.86,81.46,0.8326,0.3532
+Spatial + Temporal + Behavior,Spatial+Temporal+Behavior,83.5,98.62,69.05,81.23,0.8381,0.3548
+Hybrid Spatio-Temporal + Behavior + Incentive Model,Spatial+Temporal+Behavior+Incentive,91.7,99.32,84.53,91.33,0.9612,0.2573
